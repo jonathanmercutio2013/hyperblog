@@ -6,7 +6,9 @@ viviendo en todo en Zipaquirá
 El developer2021 tiene 41 años y nacio en la deepweb porque es muy estudioso y le gusta colaborar en proyectos opensource
 
 
-MAster 1
+Master 1
+
+Master 2
 
 Sera que hay algo mas configurado? parece que era los config
 
