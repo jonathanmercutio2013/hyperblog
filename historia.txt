@@ -11,14 +11,14 @@ Experimento 1
 <<<<<<< HEAD
 Experimento 1
 
-Master 1
-
 Master 2
 =======
 Master 1
 >>>>>>> 2287c38 (Experimento 1)
 
 Experimento 2
+
+Master 1
 
 Sera que hay algo mas configurado? parece que era los config
 
