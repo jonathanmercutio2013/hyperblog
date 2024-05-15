@@ -10,6 +10,9 @@
 
 - 🔭 I’m currently working on **Hyperblog**
 - 🔭 I’m currently working on **Intelliboard**
+- 🔭 I’m currently working on **Positiva**
+- 🔭 I’m currently planning travel to **Europa**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
